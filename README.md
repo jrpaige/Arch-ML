@@ -4,11 +4,12 @@
 ## What are you trying to do?
 <i>Articulate your objectives using absolutely no jargon (i.e. as if you were explaining to a salesperson, executive, or recruiter). Again, this should be a description of a real world problem, not an algorithm you aspire to use.</i>
 
-### Option A: Interior Layout Generator  
+In order of possiblities 
+
+### Option A: Handwriting Analysis/ Graphology
 ### Option B: Brand/Logo Recognizer
 ### Option C: Buyout/Merger/Aquisition Activity Predictor 
-### Option D: Motorcycle Recognizer
-### Option E: Handwriting Analysis/ Graphology 
+### Option D: Interior Layout Generator 
 
 
 ## How has this problem been solved before?
