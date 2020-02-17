@@ -6,7 +6,7 @@
 
 “Computers are not good at open-ended creative solutions; that’s still reserved for humans. But through automation, we’re able to save time doing repetitive tasks, and we can reinvest that time in design.”—Mike Mendelson
 
-I plan to build and construct an automatic floorplan image analysis tool and/or a classification tool to classify the type of area/room within a layout and provide the percent that the area/room takes of the whole floor/space.
+I plan to build and construct an automatic floorplan image analysis tool and/or a tool to classify the type of area/room within a layout and provide the percent that the area/room takes of the whole floor/space.
 
 ## How has this problem been solved before?
 Architecture's use of automation is on the rise. For instance, a company named [Finch](https://finch3d.com/) has built an algorithm which "generates different spatial configurations according to predetermined parameters as you change the total area of the space." [1] Another company HighArc is using machine learning to automate exterior home design. [2]
@@ -25,10 +25,10 @@ Currently, I plan to get a firm grasp on mastering the interior floorplans of re
 
 ## How will you present your work?
 
-Here, the visuals will be the best storyteller. I propose to likely generate a site via https://pages.github.com/ which will allow for the mix of models, images, and storytelling. 
+Here, the visuals will be the best storyteller. I will likely generate a site via https://pages.github.com/ which will allow for the mix of models, images, and storytelling. 
 
 ## What are your data sources? What is the size of your dataset, and what is your storage format?
-A few options/resources have popped up in an initial search:
+A few options/resources have popped up in an initial search. All are images using eithe jpeg or pngs. 
 
 <b>CubiCasa5k</b><br>
 https://zenodo.org/record/2613548#.XkrWShNKhTZ <br>
@@ -48,8 +48,8 @@ http://mathieu.delalandre.free.fr/projects/sesyd/symbols/floorplans.html<br>
 ## What are potential problems with your capstone?
 ## What is the next thing you need to work on?
 
-Potential problems include Figuring out which data set to use and mastering image recognition through the use of neural networks. 
-I plan to mitigate this by doing a lot of EDA into the data sets to decide ahead of time. 
+Potential problems include figuring out which data set to use and mastering image recognition through the use of neural networks. 
+I plan to mitigate this by doing a lot of exploratory analysis into the data sets to decide ahead of time. 
 In terms of beefing up my neural network/machine learning skills, I plan on scheduling time with my instructors outside of class as well as utilizing online resources to ensure a deep understanding of the tools. 
 
 ##### Citations
