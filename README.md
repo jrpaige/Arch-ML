@@ -1,5 +1,5 @@
 # Final Capstone Project Proposal
-
+________________________
 
 ## What are you trying to do?
 <b><u>Floorplan Layout Generator</u></b>
@@ -52,7 +52,9 @@ Potential problems include figuring out which data set to use and mastering imag
 I plan to mitigate this by doing a lot of exploratory analysis into the data sets to decide ahead of time. 
 In terms of beefing up my neural network/machine learning skills, I plan on scheduling time with my instructors outside of class as well as utilizing online resources to ensure a deep understanding of the tools. 
 
-##### Citations
+________________________
+
+### Citations
 
 <b>1.</b> <br>
 Baldwin, E. (2019). BuildTech Futures: Artificial Intelligence and Machine Learning. [online] ArchDaily. Available at: https://www.archdaily.com/924704/buildtech-futures-artificial-intelligence-and-machine-learning <br>
@@ -67,6 +69,7 @@ Academia. (2019). Stanislas Chaillou. [online] Available at: https://harvard.aca
 
 ________________________
 
+### Backup
 <b>As a backup plan, I would also be interested in classifying fashion/apparel images much like in the MNISK data set: </b>
 
 https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset <br>
