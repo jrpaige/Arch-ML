@@ -63,6 +63,8 @@ Potential problems include Figuring out which data set to use and mastering imag
 I plan to mitigate this by doing a lot of EDA into the data sets to decide ahead of time. 
 In terms of beefing up my neural network/machine learning skills, I plan on scheduling time with my instructors outside of class as well as utilizing online resources to ensure a deep understanding of the tools. 
 
+##### Citations
+
 <b>1.</b> <br>
 Baldwin, E. (2019). BuildTech Futures: Artificial Intelligence and Machine Learning. [online] ArchDaily. Available at: https://www.archdaily.com/924704/buildtech-futures-artificial-intelligence-and-machine-learning <br>
 <b>2.</b>  <br>
@@ -74,9 +76,11 @@ Chaillou, S. (2020). Space Layouts & GANs. [online] Medium. Available at: https:
 <b>5.</b> <br>
 Academia. (2019). Stanislas Chaillou. [online] Available at: https://harvard.academia.edu/StanislasChaillou.<br>
 
-As a backup plan, I would also be interested in classifying fashion/apparel images much like in the MNISK data set: 
+________________________
 
-https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset 
-https://www.kaggle.com/nitinsss/fashion-dataset-with-over-15000-labelled-images
+<b>As a backup plan, I would also be interested in classifying fashion/apparel images much like in the MNISK data set: </b>
+
+https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset <br>
+https://www.kaggle.com/nitinsss/fashion-dataset-with-over-15000-labelled-images <br>
 https://zenodo.org/record/833051#.XkruARNKhTZ
 
