@@ -4,7 +4,7 @@
 ## What are you trying to do?
 <b><u>Floorplan Layout Generator</u></b>
 
-“Computers are not good at open-ended creative solutions; that’s still reserved for humans. But through automation, we’re able to save time doing repetitive tasks, and we can reinvest that time in design.”—Mike Mendelson
+<i>“Computers are not good at open-ended creative solutions; that’s still reserved for humans. But through automation, we’re able to save time doing repetitive tasks, and we can reinvest that time in design.” </i>—Mike Mendelson
 
 I plan to build and construct an automatic floorplan image analysis tool and/or a tool to classify the type of area/room within a layout and provide the percent that the area/room takes of the whole floor/space.
 
