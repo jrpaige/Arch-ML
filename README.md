@@ -73,3 +73,10 @@ Chaillou, S. (2020). AI & Architecture. [online] Medium. Available at: https://t
 Chaillou, S. (2020). Space Layouts & GANs. [online] Medium. Available at: https://towardsdatascience.com/space-layouts-gans-19861519a5e9.<br>
 <b>5.</b> <br>
 Academia. (2019). Stanislas Chaillou. [online] Available at: https://harvard.academia.edu/StanislasChaillou.<br>
+
+As a backup plan, I would also be interested in classifying fashion/apparel images much like in the MNISK data set: 
+
+https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset 
+https://www.kaggle.com/nitinsss/fashion-dataset-with-over-15000-labelled-images
+https://zenodo.org/record/833051#.XkruARNKhTZ
+
