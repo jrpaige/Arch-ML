@@ -4,7 +4,7 @@
 ## What are you trying to do?
 <i>Articulate your objectives using absolutely no jargon (i.e. as if you were explaining to a salesperson, executive, or recruiter). Again, this should be a description of a real world problem, not an algorithm you aspire to use.</i>
 
-### Floorplan Layout Generator 
+<b><u>Floorplan Layout Generator</u></b>
 
 “Computers are not good at open-ended creative solutions; that’s still reserved for humans. But through automation, we’re able to save time doing repetitive tasks, and we can reinvest that time in design.”—Mike Mendelson
 
